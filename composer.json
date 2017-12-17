@@ -1,5 +1,7 @@
 {
-    "require": {
-        "endroid/qrcode": "^3.0"
-    }
+    "name": "htl3r/flagpackage",
+    "description": "for use with DEMO 4AI",
+    "type": "library",
+    "license": "GPL",
+    "require": {}
 }
