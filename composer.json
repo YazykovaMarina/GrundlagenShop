@@ -1,11 +1,11 @@
 {
-    "name": "htl3r/flagpackage",
+    "name": "htl3r/flags",
     "description": "for use with DEMO 4AI",
     "type": "library",
     "license": "GPL",
     "autoload": {
         "psr-4": {
-            "HTL3R\\Flagpackage\\": "src/HTL3R/"
+            "HTL3R\\Flags\\": "src/HTL3R/"
         }
     },
     "require": {}
