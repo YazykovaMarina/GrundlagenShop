@@ -5,7 +5,7 @@
     "license": "GPL",
     "autoload": {
         "psr-4": {
-            "htl3r\\flagpackage\\": "src/HTL3R/"
+            "HTL3R\\Flagpackage\\": "src/HTL3R/"
         }
     },
     "require": {}
