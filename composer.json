@@ -3,5 +3,10 @@
     "description": "for use with DEMO 4AI",
     "type": "library",
     "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "htl3r\\flagpackage\\": "src/HTL3R/"
+        }
+    },
     "require": {}
 }
